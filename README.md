@@ -1,42 +1,34 @@
-!DOCTYPE html>
-<html lang="pt-BR">
-    <head>        
-        
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width,
-            initial-scale=1.0">
-            <link type="text/css"rel="stylesheet" href="style.css">
-        <title>Jogos Online</title>
+<!DOCTYPE html>
+ <html lang="pt-BR">
+    <div class="Cabecalho">
+      <img src="">
+      <h1>class= "Eletricasa"></h1>
+   </div>
+
+<ul class="menu">
+  <li> <a Pagina Inicial> </a> op!</li>
+  <li> <a Loja> </a> </li>
+  <li><a Contato> </a> </li>
+</ul>
+
+<img class="baner" scr="eletricasa.jpg">
+
+<div class ="conteudo">
+   <img loja.jpg >
+   <p> A EletriCasa é uma loja de materiais elétricos em Ponta Grossa, e é reconhecida no Paraná por sua ampla experiência no setor e rígida política de qualidade. Possui uma equipe altamente especializada em identificar problemas e sugerir rapidamente as melhores soluções. Adicionalmente, conta com produtos de utilidade doméstica e mais de 8 mil itens em estoque, garantindo disponibilidade de pronta entrega. A EletriCasa materiais elétricos em Ponta Grossa promove um sistema de gestão de qualidade para engajar seus colaboradores e fornecedores no compromisso com a melhoria contínua e com o atendimento dos requisitos aplicáveis, que resulta no crescimento da empresa e na satisfação dos clientes. Materiais elétricos em Ponta Grossa? É na Eletricasa!  </p>
+
+</div>
+
+<div class="conteudo">
+  <h2> loja.jpg </h2>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3613.5009508402854!2d-50.18315252484025!3d-25.08489837778343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e81a06df3eaaab%3A0x85d63d4a22b28638!2sMateriais%20Eletricos%20Eletricasa!5e0!3m2!1spt-BR!2sbr!4v1745330294875!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
+<div class="rodape">
+   <p>   </p>
+</div>
+</body>
 
 
-    </head>
-    <body>
-        <p  style="text-align: center;" style="color:blueviolet; font-size: 30px">Jogos Online</p>
-        <h1 style="color: red; font-size: 14px;">Na informática, o jogo online é um tipo de jogo eletrônico (videojogo) jogados via Internet, onde um jogador com um computador, vídeo game, gadgets, televisão ou outros tipos de aparelhos eletrônicos conectado à rede, pode jogar com outros jogadores sem que ambos precisem estar no mesmo ambiente. Sem sair de casa, o jogador pode desafiar em tempo real adversários que estejam em outros lugares do mundo (como se estivessem lado a lado), abrindo novas perspectivas de diversão.</h1>
-        <p style="color: green; font-size: 30px;">Linguagens mais usadas para programar Jogos Online</p>
-        <ul>
-           <li>C++</li>
-           <li>C#</li>
-           <li>JavaScript</li>
-        </ul>
-        <p style="color:crimson; font-size: 30px">Primeiramente, como é o mercado de desenvolvimento de jogos?</p>
-        <h2 style="color:darkgreen; font-size: 14px">A indústria de desenvolvimento de jogos está em constante crescimento, sendo totalmente impulsionada pelo progresso da tecnologia e pela crescente demanda por entretenimento. 
-
-            O mercado abrange a criação, produção, distribuição e comercialização de jogos eletrônicos para diversas plataformas, como:</h2>
-        <ul>
-            <li>Consoles</li>
-            <li>Computadores</li>
-            <li>Dispositivos móveis </li>
-            <li>E tecnologias emergentes como realidade virtual e aumentada.</li>
-        </ul>
-        <h3 style="color:darkred; font-size: 14px">Com um faturamento global que superou os US$ 180 bilhões em 2022, a indústria de jogos é uma das mais lucrativas do setor de entretenimento. Esse crescimento é impulsionado por avanços tecnológicos, pela popularização dos jogos móveis e pela crescente acessibilidade de jogos digitais.
-            
-            Além disso, com a ascensão dos jogos mobile e o surgimento da realidade virtual e aumentada, as perspectivas para a indústria de desenvolvimento de jogos são ainda mais promissoras.
-            
-            Ou seja, o mercado de desenvolvimento de jogos é vasto e diversificado, repleto de oportunidades para inovação e crescimento!
-            
-            </h3>
-    </body>
-
-
-</html>
+       
