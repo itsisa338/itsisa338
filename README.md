@@ -1,14 +1,16 @@
 
+
+  
 <!DOCTYPE html>
  <html lang="pt-BR">
    <head>
+      <title>Eletricasa</title>
       <link rel="stylesheet" href="style.css">
    </head>
    <body>
       
     <div class="Cabecalho">
-      <img src="eletricasa.jpg">
-      <h1 class= "Eletricasa"></h1>
+      <h1 class="cabecalho-titulo"> Eletricasa</h1>
    </div>
 
 <ul class="menu">
@@ -36,5 +38,40 @@
 </body>
 
 
+
+
+
+div.cabecalho{
+ background-color:#161666e2;
+ display: flex;
+ justify-content: center;
+ align-items:center;
+ padding: 10px 0;
+
+}
+
+.menu {
+   font-family: "PT Serif" , serif;
+   list-style: none;
+   display: flex;
+   justify-content: space-between;
+   background-color: #161666e2
+}
+
+.menu a{
+  text-decoration: none;
+  color:black;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 45px;
+}
+
+.menu a:hover{
+    color:white;
+}
+
+.baner {
+    width
+}
 
        
